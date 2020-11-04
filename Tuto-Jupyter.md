@@ -7,7 +7,7 @@
 * Une cellule est active, elle peut être éxecutée. Si cette cellule contient du texte formaté, le texte est affiché avec sa mise en forme, si la cellule contient du code, le programme est executé.
  
  Ici les "notebook" sont utilisés pour :
-* Vous proposer des corrections d'exercices : ces corrections contiennent en général des bouts de programme en python pour faire les calculs nécessaires. Ces notebooks sont accessibles pour visualisation seulement, mais peuvent être téléchargés et déposés sur un serveur ou sur votre machine pour être modifier ou et executer.
+* Vous proposer des corrections d'exercices : ces corrections contiennent en général des bouts de programme en python pour faire les calculs nécessaires. Par défaut, ces notebooks sont accessibles pour visualisation seulement, mais peuvent être exécuter ou téléchargés et déposés sur un serveur ou sur votre machine selon la configuration de l'application Jupyter que vous utiliserez (cf paragrahe "Jupyter l'application ...").
 * Vous permettre si vous le souhaitez, de résoudre de nombreux problèmes d'ingénierie, mettre en forme votre démarche et vos résulats dans un "notebook".
 
 *Exemple d'interface d'un notebook Jupyter, ci-dessous celle de Jupyter Lab installé en local :*
