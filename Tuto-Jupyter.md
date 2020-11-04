@@ -4,7 +4,7 @@
 * Un "NoteBook" est un document structuré en cellules, affichées les unes sous les autres. Une cellule peut contenir
     1. Du texte mis en forme avec le langage "Markdown", ce texte peut contenir des images, des videos, des symboles et équations mathématiques écrites dans le langage "LaTex".
     2. Un proramme écrit langage "python".
- Une cellule est active, elle peut être éxecutée. Si cette cellule contient du texte formaté, le texte est affiché avec sa mise en forme, si la cellule contient du code, le programme est executé.
+* Une cellule est active, elle peut être éxecutée. Si cette cellule contient du texte formaté, le texte est affiché avec sa mise en forme, si la cellule contient du code, le programme est executé.
  
  Ici les "notebook" sont utilisés pour :
 * Vous proposer des corrections d'exercices : ces corrections contiennent en général des bouts de programme en python pour faire les calculs nécessaires. Ces notebooks sont accessibles pour visualisation seulement, mais peuvent être téléchargés et déposés sur un serveur ou sur votre machine pour être modifier ou et executer.
