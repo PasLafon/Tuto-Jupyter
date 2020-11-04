@@ -38,9 +38,9 @@ Vous voulez essayer tout de suite ? vous faire idée sans rien installer, allez 
         * Si vous avez un notebook existant, il faut téléverser  votre notebook sur le serveur (et tous les fichiers annexes) via le bouton "UPLOAD"
         * Si vous souhaitez créer un nouveau notebook cliquer sur le bouton "NEW" puis "Python 3".
      
-    2. Via le service gratuit de Google Collaboration : [colab.research.google.com](https://colab.research.google.com/notebooks/intro.ipynb){:target="_blank"}. L'interface est un peu différente, et vous aurez besoin d'un compte Google pour l'utiliser, vos notebook seront sauvés dans le Google Drive de votre compte. La collaboration est possible pour travailler à plusieurs sur un même Notebook.  
+    2. Via le service gratuit de Google Collaboration : [colab.research.google.com](https://colab.research.google.com/notebooks/intro.ipynb). L'interface est un peu différente, et vous aurez besoin d'un compte Google pour l'utiliser, vos notebook seront sauvés dans le Google Drive de votre compte. La collaboration est possible pour travailler à plusieurs sur un même Notebook.  
     
-    3. Les serveurs ouverts et accessibles à tous : [mybinder.org](https://mybinder.org){:target="_blank"}. Ces serveurs sont configurés à la volée, l'opération peut durer quelques minutes et nécessite que votre notebook soit d'abord déposé sur GitHub. Si vous n'avez pas de notebook sur GitHub, pour en créer un  nouveau cliquez ici : [jupyter.org](https://jupyter.org/try){:target="_blank"}. Puis "file/New/Notebook", vous pouvez commencer à travailler.
+    3. Les serveurs ouverts et accessibles à tous : [mybinder.org](https://mybinder.org). Ces serveurs sont configurés à la volée, l'opération peut durer quelques minutes et nécessite que votre notebook soit d'abord déposé sur GitHub. Si vous n'avez pas de notebook sur GitHub, pour en créer un  nouveau cliquez ici : https://jupyter.org/try. Puis "file/New/Notebook", vous pouvez commencer à travailler.
 
     
 
@@ -48,10 +48,10 @@ Vous voulez essayer tout de suite ? vous faire idée sans rien installer, allez 
 
 * C'est l'option la plus confortable. Pour télécharger l'application (Windonws, Mac-Os, Linux) rendez vous ici : 
 
-    * [anaconda.com](https://www.anaconda.com/products/individual){:target="_blank"} (400 Mo de téléchargement, 4Go d'espace disque utilisé).
+    * https://www.anaconda.com/products/individual (400 Mo de téléchargement, 4Go d'espace disque utilisé).
     
     Choisissez l'installation "graphique" selon votre système, conservez les options par défaut, l'installation ne nécessite aucun droit d'administrateur sur votre machine.
  
-    * Cette installation comprend l'application Jupyter et Jupyter Lab et le langage Python accompagné d'un grand nombres de librairies devenues des standards pour le calcul scientifique ([numpy](https://numpy.org){:target="_blank"},[scipy](https://www.scipy.org){:target="_blank"}), les représentations graphiques ([matplotlib](https://matplotlib.org){:target="_blank"}), le traitement des données ([pandas](https://pandas.pydata.org){:target="_blank"}), le machine learning ([pytorch](https://pandas.pydata.org){:target="_blank"}), etc ... . Cette application comprend également "[Spyder](https://www.spyder-ide.org){:target="_blank"}" véritable environnement de développement intégré (type MatLab) pour développer des applications en Python. 
+    * Cette installation comprend l'application Jupyter et Jupyter Lab et le langage Python accompagné d'un grand nombres de librairies devenues des standards pour le calcul scientifique ([numpy](https://numpy.org) ,[scipy](https://www.scipy.org)), les représentations graphiques ([matplotlib](https://matplotlib.org)), le traitement des données ([pandas](https://pandas.pydata.org)), le machine learning ([pytorch](https://pandas.pydata.org){:target="_blank"}), etc ... . Cette application comprend également "[Spyder](https://www.spyder-ide.org)" véritable environnement de développement intégré (type MatLab) pour développer des applications en Python. 
 
 <div align="right"> UTT - Pascal LAFON - Novembre 2020 </div>
